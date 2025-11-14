@@ -1,0 +1,8 @@
+C:\Users\lab_services_student\Documents\Classwork Cloud\ABCReatilers\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\lab_services_student\Documents\Classwork Cloud\ABCReatilers\obj\Debug\net9.0\ABCReatilers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Documents\Classwork Cloud\ABCReatilers\obj\Debug\net9.0\ABCReatilers.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Documents\Classwork Cloud\ABCReatilers\obj\Debug\net9.0\ABCReatilers.AssemblyInfo.cs
+C:\Users\lab_services_student\Documents\Classwork Cloud\ABCReatilers\obj\Debug\net9.0\ABCReatilers.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Documents\Classwork Cloud\ABCReatilers\obj\Debug\net9.0\ABCReatilers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lab_services_student\Documents\Classwork Cloud\ABCReatilers\obj\Debug\net9.0\ABCReatilers.RazorAssemblyInfo.cache
+C:\Users\lab_services_student\Documents\Classwork Cloud\ABCReatilers\obj\Debug\net9.0\ABCReatilers.RazorAssemblyInfo.cs
