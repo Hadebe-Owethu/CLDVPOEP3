@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lab_services_student\\Documents\\Classwork Cloud\\ABCReatilers\\ABCRetailers.csproj": {}
+    "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDVPOEP3\\ABCReatilers\\ABCRetailers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lab_services_student\\Documents\\Classwork Cloud\\ABCReatilers\\ABCRetailers.csproj": {
+    "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDVPOEP3\\ABCReatilers\\ABCRetailers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lab_services_student\\Documents\\Classwork Cloud\\ABCReatilers\\ABCRetailers.csproj",
+        "projectUniqueName": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDVPOEP3\\ABCReatilers\\ABCRetailers.csproj",
         "projectName": "ABCRetailers",
-        "projectPath": "C:\\Users\\lab_services_student\\Documents\\Classwork Cloud\\ABCReatilers\\ABCRetailers.csproj",
+        "projectPath": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDVPOEP3\\ABCReatilers\\ABCRetailers.csproj",
         "packagesPath": "C:\\Users\\lab_services_student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lab_services_student\\Documents\\Classwork Cloud\\ABCReatilers\\obj\\",
+        "outputPath": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDVPOEP3\\ABCReatilers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

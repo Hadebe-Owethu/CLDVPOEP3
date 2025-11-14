@@ -17,117 +17,117 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ABCRetailers
 build_property.RootNamespace = ABCRetailers
-build_property.ProjectDir = C:\Users\lab_services_student\Documents\Classwork Cloud\ABCReatilers\
+build_property.ProjectDir = C:\Users\lab_services_student\Documents\GitHub\CLDVPOEP3\ABCReatilers\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\lab_services_student\Documents\Classwork Cloud\ABCReatilers
+build_property.MSBuildProjectDirectory = C:\Users\lab_services_student\Documents\GitHub\CLDVPOEP3\ABCReatilers
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/lab_services_student/Documents/Classwork Cloud/ABCReatilers/Views/Cart/Confirmation.cshtml]
+[C:/Users/lab_services_student/Documents/GitHub/CLDVPOEP3/ABCReatilers/Views/Cart/Confirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDb25maXJtYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/Classwork Cloud/ABCReatilers/Views/Cart/Index.cshtml]
+[C:/Users/lab_services_student/Documents/GitHub/CLDVPOEP3/ABCReatilers/Views/Cart/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/Classwork Cloud/ABCReatilers/Views/Customer/Create.cshtml]
+[C:/Users/lab_services_student/Documents/GitHub/CLDVPOEP3/ABCReatilers/Views/Customer/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/Classwork Cloud/ABCReatilers/Views/Customer/Edit.cshtml]
+[C:/Users/lab_services_student/Documents/GitHub/CLDVPOEP3/ABCReatilers/Views/Customer/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/Classwork Cloud/ABCReatilers/Views/Customer/Index.cshtml]
+[C:/Users/lab_services_student/Documents/GitHub/CLDVPOEP3/ABCReatilers/Views/Customer/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/Classwork Cloud/ABCReatilers/Views/Home/AdminDashboard.cshtml]
+[C:/Users/lab_services_student/Documents/GitHub/CLDVPOEP3/ABCReatilers/Views/Home/AdminDashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbkRhc2hib2FyZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/Classwork Cloud/ABCReatilers/Views/Home/CustomerDashboard.cshtml]
+[C:/Users/lab_services_student/Documents/GitHub/CLDVPOEP3/ABCReatilers/Views/Home/CustomerDashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDdXN0b21lckRhc2hib2FyZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/Classwork Cloud/ABCReatilers/Views/Home/Index.cshtml]
+[C:/Users/lab_services_student/Documents/GitHub/CLDVPOEP3/ABCReatilers/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/Classwork Cloud/ABCReatilers/Views/Home/Privacy.cshtml]
+[C:/Users/lab_services_student/Documents/GitHub/CLDVPOEP3/ABCReatilers/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/Classwork Cloud/ABCReatilers/Views/Login/Index.cshtml]
+[C:/Users/lab_services_student/Documents/GitHub/CLDVPOEP3/ABCReatilers/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/Classwork Cloud/ABCReatilers/Views/Login/Register.cshtml]
+[C:/Users/lab_services_student/Documents/GitHub/CLDVPOEP3/ABCReatilers/Views/Login/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/Classwork Cloud/ABCReatilers/Views/Order/Create.cshtml]
+[C:/Users/lab_services_student/Documents/GitHub/CLDVPOEP3/ABCReatilers/Views/Order/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/Classwork Cloud/ABCReatilers/Views/Order/Details.cshtml]
+[C:/Users/lab_services_student/Documents/GitHub/CLDVPOEP3/ABCReatilers/Views/Order/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/Classwork Cloud/ABCReatilers/Views/Order/Edit.cshtml]
+[C:/Users/lab_services_student/Documents/GitHub/CLDVPOEP3/ABCReatilers/Views/Order/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/Classwork Cloud/ABCReatilers/Views/Order/Index.cshtml]
+[C:/Users/lab_services_student/Documents/GitHub/CLDVPOEP3/ABCReatilers/Views/Order/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/Classwork Cloud/ABCReatilers/Views/Order/Manage.cshtml]
+[C:/Users/lab_services_student/Documents/GitHub/CLDVPOEP3/ABCReatilers/Views/Order/Manage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcTWFuYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/Classwork Cloud/ABCReatilers/Views/Order/MyOrders.cshtml]
+[C:/Users/lab_services_student/Documents/GitHub/CLDVPOEP3/ABCReatilers/Views/Order/MyOrders.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcTXlPcmRlcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/Classwork Cloud/ABCReatilers/Views/Product/Create.cshtml]
+[C:/Users/lab_services_student/Documents/GitHub/CLDVPOEP3/ABCReatilers/Views/Product/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/Classwork Cloud/ABCReatilers/Views/Product/Edit.cshtml]
+[C:/Users/lab_services_student/Documents/GitHub/CLDVPOEP3/ABCReatilers/Views/Product/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/Classwork Cloud/ABCReatilers/Views/Product/Index.cshtml]
+[C:/Users/lab_services_student/Documents/GitHub/CLDVPOEP3/ABCReatilers/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/Classwork Cloud/ABCReatilers/Views/Shared/Error.cshtml]
+[C:/Users/lab_services_student/Documents/GitHub/CLDVPOEP3/ABCReatilers/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/Classwork Cloud/ABCReatilers/Views/Shared/_AccessDenied.cshtml]
+[C:/Users/lab_services_student/Documents/GitHub/CLDVPOEP3/ABCReatilers/Views/Shared/_AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/Classwork Cloud/ABCReatilers/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/lab_services_student/Documents/GitHub/CLDVPOEP3/ABCReatilers/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/Classwork Cloud/ABCReatilers/Views/_ViewImports.cshtml]
+[C:/Users/lab_services_student/Documents/GitHub/CLDVPOEP3/ABCReatilers/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/Classwork Cloud/ABCReatilers/Views/_ViewStart.cshtml]
+[C:/Users/lab_services_student/Documents/GitHub/CLDVPOEP3/ABCReatilers/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/Classwork Cloud/ABCReatilers/Views/Shared/_Layout.cshtml]
+[C:/Users/lab_services_student/Documents/GitHub/CLDVPOEP3/ABCReatilers/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-bl7f7izz49
